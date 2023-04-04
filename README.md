@@ -7,7 +7,7 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone git@github.com:aquariusloan/aquarius-swap-sdk.git
+git clone git@github.com:aquarius-loan/aquarius-swap-sdk.git
 ```
 
 Move into the aquarius-swap-sdk working directory
